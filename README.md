@@ -35,6 +35,10 @@ The project contains three tables:
 🎯 Objective
 
 To understand loan portfolio performance and credit risk through interactive dashboards.
+## Dashboard Preview
+! [Dashboard] (S1 Loan Portfolio Overview.png)
+! [Dashboard] (S2 Customer And Credit Profile.png)
+! [Dashboard] (S3 Payment Analysis.png)
 
 👨‍💻 Author
 
