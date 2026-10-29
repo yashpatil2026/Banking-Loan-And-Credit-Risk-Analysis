@@ -20,9 +20,9 @@ The project contains three tables:
 
 📊 Dashboard Pages
 
-1. Loan Portfolio Overview
-2. Customer & Credit Profile
-3. Payment Analysis
+1. ! [Loan Porfolio Overview](S1%20Loan%20Portfolio%20Overview.png)
+2. ! [Customer and Credit Profile](S2%20Customer%20And%20Credit%20Profile.png)
+3. ! [Dashboard](S3%20Payment%20Analysis.png)
 
 💡 Key Insights
 
@@ -35,10 +35,6 @@ The project contains three tables:
 🎯 Objective
 
 To understand loan portfolio performance and credit risk through interactive dashboards.
-## Dashboard Preview
-! [Loan Porfolio Overview](S1%20Loan%20Portfolio%20Overview.png)
-! [Customer and Credit Profile](S2%20Customer%20And%20Credit%20Profile.png)
-! [Dashboard](S3%20Payment%20Analysis.png)
 
 👨‍💻 Author
 
