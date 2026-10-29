@@ -36,9 +36,9 @@ The project contains three tables:
 
 To understand loan portfolio performance and credit risk through interactive dashboards.
 ## Dashboard Preview
-! [Dashboard] (S1 Loan Portfolio Overview.png)
-! [Dashboard] (S2 Customer And Credit Profile.png)
-! [Dashboard] (S3 Payment Analysis.png)
+! [Loan Porfolio Overview](S1%20Loan%20Portfolio%20Overview.png)
+! [Customer and Credit Profile](S2%20Customer%20And%20Credit%20Profile.png)
+! [Dashboard](S3%20Payment%20Analysis.png)
 
 👨‍💻 Author
 
